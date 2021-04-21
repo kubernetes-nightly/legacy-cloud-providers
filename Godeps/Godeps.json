@@ -303,10 +303,6 @@
 			"Rev": "v0.19.3"
 		},
 		{
-			"ImportPath": "github.com/go-openapi/spec",
-			"Rev": "v0.19.5"
-		},
-		{
 			"ImportPath": "github.com/go-openapi/swag",
 			"Rev": "v0.19.5"
 		},
@@ -536,7 +532,7 @@
 		},
 		{
 			"ImportPath": "github.com/kr/pty",
-			"Rev": "v1.1.5"
+			"Rev": "v1.1.1"
 		},
 		{
 			"ImportPath": "github.com/kr/text",
@@ -980,35 +976,35 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "2f373cca09ee"
+			"Rev": "10ccea30d081"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "cf61c7e476e3"
+			"Rev": "df94d81e93cb"
 		},
 		{
 			"ImportPath": "k8s.io/apiserver",
-			"Rev": "c3b8f2f7b528"
+			"Rev": "b33a89e95ceb"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "0c19341cee53"
+			"Rev": "72e453cf1d8b"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "ae35860ee94e"
+			"Rev": "e8f471fb8272"
 		},
 		{
 			"ImportPath": "k8s.io/component-base",
-			"Rev": "c1ed77c8b107"
+			"Rev": "6953ecbdecbf"
 		},
 		{
 			"ImportPath": "k8s.io/controller-manager",
-			"Rev": "c1800b31bbcc"
+			"Rev": "9976aae4101b"
 		},
 		{
 			"ImportPath": "k8s.io/csi-translation-lib",
-			"Rev": "3f290f22c1a5"
+			"Rev": "299e143ae894"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
@@ -1020,7 +1016,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/kube-openapi",
-			"Rev": "1a6458611d18"
+			"Rev": "95288971da7e"
 		},
 		{
 			"ImportPath": "k8s.io/utils",
