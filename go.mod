@@ -27,13 +27,13 @@ require (
 	google.golang.org/api v0.6.1-0.20190607001116-5213b8090861
 	gopkg.in/gcfg.v1 v1.2.0
 	gopkg.in/warnings.v0 v0.1.1 // indirect
-	k8s.io/api v0.0.0-20210518054009-78b3389f30d7
-	k8s.io/apimachinery v0.0.0-20210518053131-2a68fcebfe3c
-	k8s.io/apiserver v0.0.0-20210518063821-5aeafd6b3da6
-	k8s.io/client-go v0.0.0-20210518055851-632ca8ed688d
-	k8s.io/cloud-provider v0.0.0-20210518080612-074506c51c44
-	k8s.io/component-base v0.0.0-20210518062309-1356584a4bc5
-	k8s.io/csi-translation-lib v0.0.0-20210518082203-9f9b2587573e
+	k8s.io/api v0.18.19
+	k8s.io/apimachinery v0.18.19
+	k8s.io/apiserver v0.18.19
+	k8s.io/client-go v0.18.19
+	k8s.io/cloud-provider v0.18.19
+	k8s.io/component-base v0.18.19
+	k8s.io/csi-translation-lib v0.18.19
 	k8s.io/klog v1.0.0
 	k8s.io/utils v0.0.0-20200324210504-a9aa75ae1b89
 	sigs.k8s.io/yaml v1.2.0
@@ -43,11 +43,11 @@ replace (
 	golang.org/x/crypto => golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
 	golang.org/x/text => golang.org/x/text v0.3.2
 	golang.org/x/tools => golang.org/x/tools v0.0.0-20190821162956-65e3620a7ae7 // pinned to release-branch.go1.13
-	k8s.io/api => k8s.io/api v0.0.0-20210518054009-78b3389f30d7
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20210518053131-2a68fcebfe3c
-	k8s.io/apiserver => k8s.io/apiserver v0.0.0-20210518063821-5aeafd6b3da6
-	k8s.io/client-go => k8s.io/client-go v0.0.0-20210518055851-632ca8ed688d
-	k8s.io/cloud-provider => k8s.io/cloud-provider v0.0.0-20210518080612-074506c51c44
-	k8s.io/component-base => k8s.io/component-base v0.0.0-20210518062309-1356584a4bc5
-	k8s.io/csi-translation-lib => k8s.io/csi-translation-lib v0.0.0-20210518082203-9f9b2587573e
+	k8s.io/api => k8s.io/api v0.18.19
+	k8s.io/apimachinery => k8s.io/apimachinery v0.18.19
+	k8s.io/apiserver => k8s.io/apiserver v0.18.19
+	k8s.io/client-go => k8s.io/client-go v0.18.19
+	k8s.io/cloud-provider => k8s.io/cloud-provider v0.18.19
+	k8s.io/component-base => k8s.io/component-base v0.18.19
+	k8s.io/csi-translation-lib => k8s.io/csi-translation-lib v0.18.19
 )
